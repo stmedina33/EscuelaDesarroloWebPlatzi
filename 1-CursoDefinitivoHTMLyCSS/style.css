@@ -1,0 +1,27 @@
+body{
+    background-color: #312244;
+}
+
+h1{
+    color: #C77DFF;
+    font-family:Cursive;
+}
+
+.titulo{
+    color: #4895EF;
+    font-family:Cursive;
+    font-size: 20px;
+    
+}
+
+li{
+    color: white;
+    font-family: cursive;
+}
+
+img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+   
+}
